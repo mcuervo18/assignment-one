@@ -1,2 +1,2 @@
-# assignment-one
-Biz Sys 2 Assignment 1 - EOQ Calculator
+# group-assignments
+Biz Sys 2 Assignments
